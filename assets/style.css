@@ -1,0 +1,52 @@
+*{margin:0; padding: 0; box-sizing: border-box;}
+  /*-------------- variables --------------*/
+  :root {
+    --main: #C85D20;
+    --sub:#000000;
+    --alt: #FFFFFF;
+    --background:#FFD439;
+  
+    --ff-header: 'Irish Grover', cursive;
+    --ff-text: 'Irish Grover', cursive;
+  }
+
+  /*-------------- Site CODE --------------*/
+
+*, *::before, *::after{padding: 0; margin:0; box-sizing: border-box;}
+html{scroll-behavior: smooth;}
+body{background-color: var(--background); font-family: 'Irish Grover', cursive; opacity: 100%; transition: opacity 0.5s; width: 85%; margin: auto;}
+h1,h2,h3,h4,h5{text-transform: capitalize; font-family: var(--ff-header);}
+h1{margin:5% 0; font-size: 40pt; line-height: 55pt; text-align: center; color: var(--main);}
+h2{font-size: 22pt; color: var(--main);}
+h3{font-size: 18pt; color: var(--main);}
+p, p a{font-family: var(--ff-text); text-align: left; margin:5% 0; line-height: 1.4em;}
+img{width: 100%; height: auto; margin: 0; padding: 0; border-radius: 10pt; border: none;}
+li{list-style: none;}
+a{text-decoration: none; color: var(--main);}
+svg{height:22pt; width: auto !important; fill:#E5E5E5;}
+
+.language-selector{text-align: center; margin: 0 auto 10% auto;}
+.language-selector img{text-align: center; margin:0;}
+
+/* Style the buttons that are used to open and close the accordion panel */
+.accordion { cursor: pointer; width: 100%; text-align: left; border: none; outline: none; transition: 0.4s; background-color: transparent;  font-size: 22pt; color: var(--main); outline: none; margin-bottom:4%; font-family: var(--ff-header);}
+
+    /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+    .active, .accordion:hover { }
+
+    /* Style the accordion panel. Note: hidden by default */
+    .panel { padding: 0.5% 18px 2% 5px; display: none; overflow: hidden;}
+    .panel .cymraeg{color: red;}
+    .panel .saesneg{color: blue;}
+    .panel ul { list-style-type: none; padding: 0; }
+    .panel ul li { margin-bottom: 5px; }
+    .accordion:after { content: '\02795'; /* (+) */ font-size: 22px; float: right;  margin-left: 5px; color: var(--main); vertical-align: text-top;}
+    .active:after {content: "\2796"; /* (-) */}
+
+.sentence{display: grid; grid-template-columns:85% 1fr; grid-template-rows:1fr 1fr; margin: auto; padding:1%;} 
+.your-word{  grid-column: 1; grid-row: 1; color: var(--main);}
+.their-word{  grid-column: 1; grid-row: 2; color: var(--sub);}
+.button{ grid-column: 2; grid-row: 1 / 3; vertical-align: middle; margin: auto;}
+
+footer{padding-top: 10%}
+footer p{text-align: center;}

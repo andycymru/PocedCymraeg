@@ -1,0 +1,57 @@
+{
+    "weather / Tywydd": {
+      "sunny": "heulog",
+      "raining": "bwrw glaw",
+      "windy": "gwyntog",
+      "cloudy": "cymylog",
+      "stormy": "stormus"
+    },
+    "hobbies": {
+      "reading": "darllen",
+      "painting": "peintio",
+      "swimming": "nofio",
+      "gardening": "garddio"
+    },
+    "The_Calendar": {
+      "Monday": "Dydd Llun",
+      "Tuesday": "Dydd Mawrth",
+      "Wednesday": "Dydd Mercher",
+      "Thursday": "Dydd Iau",
+      "Friday": "Dydd Gwener",
+      "Saturday": "Dydd Sadwrn",
+      "January": "Dydd Sul",
+      "February": "Dydd Sul",
+      "March": "Dydd Sul",
+      "April": "Dydd Sul",
+      "May": "Dydd Sul",
+      "June": "Dydd Sul",
+      "July": "Dydd Sul",
+      "August": "Dydd Sul",
+      "September": "Dydd Sul",
+      "October": "Dydd Sul",
+      "November": "Dydd Sul",
+      "December": "Dydd Sul",
+      "Summer": "Dydd Sul",
+      "Spring": "Dydd Sul",
+      "Autumn": "Dydd Sul",
+      "winter": "Dydd Sul"
+    },
+    "Colours / Lliwiau": {
+      "Monday": "Dydd Llun",
+      "Tuesday": "Dydd Mawrth",
+      "Wednesday": "Dydd Mercher",
+      "Thursday": "Dydd Iau",
+      "Friday": "Dydd Gwener",
+      "Saturday": "Dydd Sadwrn",
+      "Sunday": "Dydd Sul"
+    },
+    "Time / Amser": {
+      "Monday": "Dydd Llun",
+      "Tuesday": "Dydd Mawrth",
+      "Wednesday": "Dydd Mercher",
+      "Thursday": "Dydd Iau",
+      "Friday": "Dydd Gwener",
+      "Saturday": "Dydd Sadwrn",
+      "Sunday": "Dydd Sul"
+    }
+  }
