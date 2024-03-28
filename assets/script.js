@@ -1,5 +1,5 @@
         // Fetching and displaying translations from JSON
-        fetch('https://raw.githubusercontent.com/passthecoffee/translate-json/main/translations.json')
+        fetch('https://raw.githubusercontent.com/andycymru/PocedCymraeg/master/assets/data.json')
             .then(response => response.json())
             .then(data => {
                 const accordionContainer = document.getElementById('accordionContainer');
