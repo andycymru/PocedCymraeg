@@ -16,7 +16,7 @@
 html{scroll-behavior: smooth;}
 body{background-color: var(--background); font-family: 'Irish Grover', cursive; opacity: 100%; transition: opacity 0.5s; width: 85%; margin: auto;}
 h1,h2,h3,h4,h5{text-transform: capitalize; font-family: var(--ff-header);}
-h1{margin:5% 0; font-size: 40pt; line-height: 55pt; text-align: center; color: var(--main);}
+h1{margin:5% 0; font-size: 30pt; line-height: 55pt; text-align: center; color: var(--main);}
 h2{font-size: 22pt; color: var(--main);}
 h3{font-size: 18pt; color: var(--main);}
 p, p a{font-family: var(--ff-text); text-align: left; margin:5% 0; line-height: 1.4em;}
@@ -25,7 +25,7 @@ li{list-style: none;}
 a{text-decoration: none; color: var(--main);}
 svg{height:22pt; width: auto !important; fill:#E5E5E5;}
 
-.language-selector{text-align: center; margin: 0 auto 10% auto;}
+.language-selector{text-align: center; margin: 0 auto 10% auto; width: 60%; height:auto;}
 .language-selector img{text-align: center; margin:0;}
 
 /* Style the buttons that are used to open and close the accordion panel */

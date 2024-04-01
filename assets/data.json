@@ -6,13 +6,13 @@
       "cloudy": "cymylog",
       "stormy": "stormus"
     },
-    "Hobbies": {
+    "/ Hobbies": {
       "reading": "darllen",
       "painting": "peintio",
       "swimming": "nofio",
       "gardening": "garddio"
     },
-    "The_Calendar": {
+    "/ Calendar": {
       "Monday": "Dydd Llun",
       "Tuesday": "Dydd Mawrth",
       "Wednesday": "Dydd Mercher",
@@ -54,7 +54,7 @@
       "Saturday": "Dydd Sadwrn",
       "Sunday": "Dydd Sul"
     },
-    "Lliwiau / Animals": {
+    "Anifeiliaid / Animals": {
       "Monday": "Dydd Llun",
       "Sunday": "Dydd Sul"
     },
@@ -82,355 +82,91 @@
       "Monday": "Dydd Llun",
       "Sunday": "Dydd Sul"
     },
-    "Lliwiau / Colours": {
+    "Lliwiau / Work": {
       "Monday": "Dydd Llun",
       "Sunday": "Dydd Sul"
     },
-    "Lliwiau / Colours": {
+    "Lliwiau / Travel": {
       "Monday": "Dydd Llun",
       "Sunday": "Dydd Sul"
     },
-    "Lliwiau / Colours": {
+    "Lliwiau / Family": {
       "Monday": "Dydd Llun",
       "Sunday": "Dydd Sul"
     },
-    "Lliwiau / Colours": {
+    "Lliwiau / food": {
       "Monday": "Dydd Llun",
       "Sunday": "Dydd Sul"
     },
-    "Lliwiau / Colours": {
+    "Lliwiau / Getting up in the morning": {
       "Monday": "Dydd Llun",
       "Sunday": "Dydd Sul"
     },
-    "Lliwiau / Colours": {
+    "Lliwiau / I have": {
       "Monday": "Dydd Llun",
       "Sunday": "Dydd Sul"
     },
-    "Lliwiau / Colours": {
+    "Lliwiau / In The Morning": {
       "Monday": "Dydd Llun",
       "Sunday": "Dydd Sul"
     },
-    "Lliwiau / Colours": {
+    "Lliwiau / Marriage": {
       "Monday": "Dydd Llun",
       "Sunday": "Dydd Sul"
     },
-    "Lliwiau / Colours": {
+    "Lliwiau / Illness": {
       "Monday": "Dydd Llun",
       "Sunday": "Dydd Sul"
     },
-    "Lliwiau / Colours": {
+    "Lliwiau / Meals": {
       "Monday": "Dydd Llun",
       "Sunday": "Dydd Sul"
     },
-    "Lliwiau / Colours": {
+    "Lliwiau / Play": {
       "Monday": "Dydd Llun",
       "Sunday": "Dydd Sul"
     },
-    "Lliwiau / Colours": {
+    "Lliwiau / Possessions": {
       "Monday": "Dydd Llun",
       "Sunday": "Dydd Sul"
     },
-    "Lliwiau / Colours": {
+    "Lliwiau / Seasons": {
       "Monday": "Dydd Llun",
       "Sunday": "Dydd Sul"
     },
-    "Lliwiau / Colours": {
+    "Lliwiau / Face": {
       "Monday": "Dydd Llun",
       "Sunday": "Dydd Sul"
     },
-    "Lliwiau / Colours": {
+    "Lliwiau / Future": {
       "Monday": "Dydd Llun",
       "Sunday": "Dydd Sul"
     },
-    "Lliwiau / Colours": {
+    "Lliwiau / Past": {
       "Monday": "Dydd Llun",
       "Sunday": "Dydd Sul"
     },
-    "Lliwiau / Colours": {
+    "Lliwiau / Time": {
       "Monday": "Dydd Llun",
       "Sunday": "Dydd Sul"
     },
-    "Lliwiau / Colours": {
+    "Lliwiau / To Like": {
       "Monday": "Dydd Llun",
       "Sunday": "Dydd Sul"
     },
-    "Lliwiau / Colours": {
+    "Lliwiau / To Want": {
       "Monday": "Dydd Llun",
       "Sunday": "Dydd Sul"
     },
-    "Lliwiau / Colours": {
+    "Lliwiau / Useful Verbs": {
       "Monday": "Dydd Llun",
       "Sunday": "Dydd Sul"
     },
-    "Lliwiau / Colours": {
+    "Lliwiau / Weather": {
       "Monday": "Dydd Llun",
       "Sunday": "Dydd Sul"
     },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
-      "Monday": "Dydd Llun",
-      "Sunday": "Dydd Sul"
-    },
-    "Lliwiau / Colours": {
+    "Lliwiau / Who, where, what?": {
       "Monday": "Dydd Llun",
       "Sunday": "Dydd Sul"
     },
