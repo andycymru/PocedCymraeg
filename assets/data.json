@@ -4,7 +4,13 @@
       "raining": "bwrw glaw",
       "windy": "gwyntog",
       "cloudy": "cymylog",
-      "stormy": "stormus"
+      "stormy": "stormus",
+      "Seasons":[{
+        "summer": "Geaf",
+        "spring": "Spring",
+        "autumn": "autumn",
+        "winter": "winter"
+      }]
     },
     "/ Hobbies": {
       "reading": "darllen",
